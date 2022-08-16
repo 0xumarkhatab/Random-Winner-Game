@@ -23,7 +23,8 @@ async function main() {
   console.log(
     "Verify Contract Address:",
     deployedRandomWinnerGameContract.address
-  );//0x850FeE6bf447Fed350c35A8fa4f3E16d688a08fB
+  );
+  // 0x850FeE6bf447Fed350c35A8fa4f3E16d688a08fB
 
   console.log("Sleeping.....");
   // Wait for etherscan to notice that the contract has been deployed
